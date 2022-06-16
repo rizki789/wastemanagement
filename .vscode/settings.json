@@ -1,0 +1,11 @@
+{
+    "conventionalCommits.scopes": [
+        "Layout",
+        "Config",
+        "Questions",
+        "ContainerTable",
+        "PDF"
+        "3DView"
+    ],
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+}

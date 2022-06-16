@@ -1,0 +1,10 @@
+[0m2021.09.19 13:30:49 INFO  Started: Metals version 0.10.6 in workspace 'D:\Apps\wasteSpecePlanner' for client Visual Studio Code 1.56.2.[0m
+[0m2021.09.19 13:30:52 INFO  time: initialize in 3.58s[0m
+[0m2021.09.19 13:30:53 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.19 13:30:53 WARN  no build tool detected in workspace 'D:\Apps\wasteSpecePlanner'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.19 13:42:58 INFO  shutting down Metals[0m
+[0m2021.10.10 11:35:32 INFO  Started: Metals version 0.10.7 in workspace 'D:\Apps\wasteSpecePlanner' for client Visual Studio Code 1.60.1.[0m
+[0m2021.10.10 11:35:34 INFO  time: initialize in 2.45s[0m
+[0m2021.10.10 11:35:35 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.10 11:35:35 WARN  no build tool detected in workspace 'D:\Apps\wasteSpecePlanner'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.10.10 12:01:30 INFO  shutting down Metals[0m

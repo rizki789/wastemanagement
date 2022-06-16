@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "@styles/*": ["./src/client/shr/styles/*"],
+        "@assets/*": ["./src/client/shr/assets/*"],
+        "@components/*": ["./src/components/*"],
+        "@hooks/*": ["./src/hooks/*"],
+        "@helpers/*": ["./src/helpers/*"],
+        "@types": ["./src/types/index.tsx"]
+      }
+    }
+  }
+  

@@ -1,0 +1,51 @@
+body, html, .App, #root {
+  margin: 0;
+  font-family: 'Arial', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  height:100%;
+  width:100%;
+  padding: 0;
+  margin: 0;
+
+  overflow:hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#demand_input_field::placeholder {
+  color: DarkGray;
+  font-size: 0.95em;
+}
+
+#demand_label {
+  position: absolute;
+  right: 40px;
+  top: 10px;
+  color: DarkGray;
+}
+
+@font-face {
+  font-family: 'HelveticaNeueLTProLt';
+  src: local('HelveticaNeueLTProLt'), url(../assets/fonts/HelveticaNeueLTProLt.ttf) format('truetype'); 
+  /* other formats include: 'woff2', 'truetype, 'opentype', 'embedded-opentype', and 'svg' */
+}
+
+@font-face {
+  font-family: 'HelveticaNeueLTProBd';
+  src: local('HelveticaNeueLTProBd'), url(../assets/fonts/HelveticaNeueLTProBd.ttf) format('truetype'); 
+  /* other formats include: 'woff2', 'truetype, 'opentype', 'embedded-opentype', and 'svg' */
+}
+
+@font-face {
+  font-family: 'HelveticaNeueLTProRoman';
+  src: local('HelveticaNeueLTProRoman'), url(../assets/fonts/HelveticaNeueLTProRoman.ttf) format('truetype'); 
+  /* other formats include: 'woff2', 'truetype, 'opentype', 'embedded-opentype', and 'svg' */
+}
+
