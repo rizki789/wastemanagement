@@ -1,6 +1,4 @@
-WASTE MANAGEMENT
-
-# Getting Started with Create React App
+# WASTE MANAGEMENT
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
